@@ -6,4 +6,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/0521624ad07f7251fa1f/maintainability)](https://codeclimate.com/github/fgsoftware1/jony-hub/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/0521624ad07f7251fa1f/test_coverage)](https://codeclimate.com/github/fgsoftware1/jony-hub/test_coverage)
 
+## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffgsoftware1%2Fjony-hub.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffgsoftware1%2Fjony-hub?ref=badge_large)
